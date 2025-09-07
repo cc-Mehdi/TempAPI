@@ -1,0 +1,6 @@
+{
+  "switches": [
+    { "id": 3, "status": true },
+    { "id": 7, "status": false }
+  ]
+}
