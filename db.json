@@ -1,6 +1,6 @@
 {
   "switches": [
-    { "id": 3, "status": true },
+    { "id": 85, "status": false },
     { "id": 7, "status": false }
   ]
 }
